@@ -47,13 +47,13 @@ def extract_company_dataframe(datasets_folder, name_and_id_df, path=None, possib
         except Exception as e:
             logger(f"Error processing {filename}: {e}")
     
-    # Consolidar datos (primero no nulo)
+
     output_df = output_df.reset_index()
     output_df = output_df.groupby(['CompanyID', 'Name'], as_index=False).agg(
         lambda x: x.dropna().iloc[0] if not x.dropna().empty else pd.NA
     )
     
-    # Ordenar columnas
+
     desired_order = ["CompanyID", "Name"] + list(target_columns)
     output_df = output_df[[col for col in desired_order if col in output_df.columns]]
     

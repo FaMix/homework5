@@ -47,3 +47,21 @@ def check_file(path):
             print("[INFO] --> The file does not exist.") 
     except Exception as e:
         raise Exception(f"[ERROR] --> Unable to check whether the file exists in this path: {path}")
+    
+
+def generate_company_ids(df,which_columns,id_generator=None, logger=print):
+    if df.empty:
+        return df
+
+    elif which_columns is None or len(which_columns) != 2:
+        raise Exception("[ERROR] --> 'Which columns parameter is none or its length is not the expected, please check it")
+
+    if id_generator is None:
+        # Generar un mapeo de UUID para cada nombre único
+        unique_names = df[which_columns[1]].unique()
+        uuid_mapping = {name: str(uuid.uuid4()) for name in unique_names}
+        df[which_columns[0]] = df[which_columns[1]].map(uuid_mapping)
+    else:
+        df[which_columns[0]] = id_generator(df)
+
+    return df
