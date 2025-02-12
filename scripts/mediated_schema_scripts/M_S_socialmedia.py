@@ -4,10 +4,14 @@ from utils import *
 
 # Mapeos y columnas objetivo para el esquema de Social Media
 DEFAULT_SOCIAL_MEDIA_MAPPINGS = {
-    'Platform': ("Facebook", "Twitter", "Instagram", "Pinterest"),
-    'Url': ("link", "website")
+    #'Platform': ("Facebook", "Twitter", "Instagram", "Pinterest"),
+    'Other': ("link", "website"),
+    'Facebook' : ("Facebook"),
+    'Twitter' : ("Twitter"),
+    'Instagram' : ("Instagram"),
+    'Pinterest' : ("Pinterest"),
 }
-DEFAULT_SOCIAL_MEDIA_TARGET_COLUMNS = ("Platform", "Url")
+DEFAULT_SOCIAL_MEDIA_TARGET_COLUMNS = ("Facebook", "Twitter", "Instagram", "Pinterest", "Other")
 
 def extract_social_media_info_from_csv(
     datasets_folder,           # Carpeta donde se encuentran los datasets (archivos Excel)
@@ -58,6 +62,7 @@ def extract_social_media_info_from_csv(
             rename_matching_columns(df, column_mappings)
             df = df.drop_duplicates(subset=["Name"])
             
+            df = reassign_social_media_urls(df)
             
             new_data = df.set_index(["Name", "Source"]).reindex(columns=target_columns)
             new_data["SocialMediaID"] = output_df.set_index(["Name", "Source"])["SocialMediaID"]
@@ -84,3 +89,35 @@ def extract_social_media_info_from_csv(
         logger(f"Social Media information saved to: {path}")
     except Exception as e:
         logger(f"[ERROR] Saving Excel: {e}")
+
+
+
+def reassign_social_media_urls(df):
+    # Asegurarse de que la columna "Url" existe
+    for col in ["Facebook", "Twitter", "Instagram", "Pinterest"]:
+        if col not in df.columns:
+            df[col] = pd.NA
+
+    
+    if "Url" not in df.columns:
+        return df
+
+    for idx, row in df.iterrows():
+        url = row["Url"]
+        if pd.isna(url):
+            continue
+        url_lower = str(url).lower()
+        if "facebook" in url_lower:
+            df.at[idx, "Facebook"] = url
+            df.at[idx, "Url"] = pd.NA  # o simplemente puedes dejar la URL si lo prefieres
+        elif "twitter" in url_lower:
+            df.at[idx, "Twitter"] = url
+            df.at[idx, "Url"] = pd.NA
+        elif "instagram" in url_lower:
+            df.at[idx, "Instagram"] = url
+            df.at[idx, "Url"] = pd.NA
+        elif "pinterest" in url_lower:
+            df.at[idx, "Pinterest"] = url
+            df.at[idx, "Url"] = pd.NA
+    return df
+
