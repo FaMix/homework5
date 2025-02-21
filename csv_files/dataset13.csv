@@ -1,0 +1,225 @@
+id,name,rank,market_cap,country,share_price,change_1_day,change_1_year,categories
+1aeb78c70807445290795f145210a39e,Apple,1,$2.351 T,USA,$147.81,-0.34%,-9.74%,"['Tech', 'Software', 'Dow jones', 'Tech Hardware', 'Electronics']"
+8443bd488b2543718e4dab19e7d1b371,Bristol-myers Squibb,57,$172.49 B,USA,$81.13,0.31%,46.42%,"['Pharmaceuticals', 'Biotech']"
+d35ff63680a645f986048ab48d2fe322,Wells Fargo,56,$175.05 B,USA,$45.94,-1.98%,-6.07%,"['Banks', 'Financial services']"
+0664af11c7b9417bab58542ffa880c0e,Nike,55,$175.54 B,USA,$112.20,1.29%,-34.00%,"['Sports goods', 'Footwear', 'Dow jones', 'Clothing']"
+4a67737ea89e450b8e8677a91e90327f,Walt Disney,54,$177.08 B,USA,$99.43,0.85%,-32.45%,"['Entertainment', 'Dow jones']"
+078fc42523be4528a0eb804f7ceb4ddf,Abbott Laboratories,53,$188.46 B,USA,$108.09,0.15%,-15.80%,['Medical devices']
+d38f5769cb644305bf77af14794bd780,Accenture,52,$189.25 B,Ireland,$300.13,-0.89%,-17.84%,['Professional services']
+97f59071fdc74c589f7ad77a8903f429,T-mobile Us,51,$189.62 B,USA,$152.41,0.40%,38.10%,['Telecommunication']
+9fe6e0ddabc04a8ebc3d091c9e3071f2,Novartis,50,$194.41 B,Switzerland,$89.99,0.19%,12.56%,"['Pharmaceuticals', 'Biotech']"
+03ad6161d67b479588cd2cdcf7e0b3d5,Toyota,48,$199.92 B,Japan,$146.53,-0.77%,-20.00%,"['Automakers', 'Manufacturing']"
+e44046a2f67e4062823fb2f75e3edd7f,Danaher,49,$199.62 B,USA,$274.23,-0.11%,-13.23%,['Conglomerate']
+af046f3fff4f48a598f3a5b14577a590,Mcdonald,47,$200.24 B,USA,$273.40,0.00%,9.89%,"['Restaurant chains', 'Dow jones', 'Food']"
+a2720ae15d4745578a8ab1b5d3fb3db2,Icbc,46,$201.96 B,China,$0.49,-2.30%,-10.91%,"['Banks', 'Financial services']"
+b568ec4c2bc340ac84c13758f1aa1d62,L'oréal,44,$204.92 B,France,$379.90,0.66%,-15.71%,"['Consumer goods', 'CAC 40', 'Cosmetics and Beauty']"
+53570c24ff194326bc028c09f4d7ea22,Cisco,45,$204.17 B,USA,$49.70,-0.54%,-11.49%,"['Tech', 'Electronics', 'Networking hardware', 'Dow jones', 'Telecommunications equipment', 'Tech Hardware']"
+6872065415084028ac623ff75960e708,Shell,43,$206.97 B,UK,$57.72,-0.57%,31.57%,"['Oil&Gas', 'Energy']"
+c55fcaae5766410086136058e5b43c6d,Costco,41,$218.88 B,USA,$494.53,-1.85%,-5.90%,"['Retail', 'Supermarket Chains']"
+144b8ddc219c44ad956c4781a1f629fd,Astrazeneca,42,$213.83 B,UK,$68.47,0.19%,24.97%,"['Pharmaceuticals', 'Biotech']"
+e3386793215d497fb47a51cd80ce7f22,Thermo Fisher Scientific,39,$220.80 B,USA,$563.00,-0.28%,-10.29%,"['Scientific & Technical Instruments', 'Diagnostics and Testing', 'Biotech']"
+0b7e1b00e5014e4b8792d845e132d156,Broadcom,40,$219.02 B,USA,$540.80,-1.81%,-2.11%,"['Semiconductors', 'Tech']"
+6ba9e5b462a04029bcccfdc2ab95c3dc,Reliance Industries,37,$226.23 B,India,$33.44,-0.04%,1.03%,['Conglomerate']
+4535db9cb7d141bc9b893ba49d26d5bb,Oracle,38,$224.72 B,USA,$83.35,-0.90%,-7.38%,"['Tech', 'Software']"
+a61cf8da5db749b6881706f13e458a43,Asml,35,$247.88 B,Netherlands,$605.71,-0.91%,-23.27%,"['Semiconductors', 'Tech', 'Tech Hardware']"
+9d3f40983f3f4e23baea0c4f76747d6d,Alibaba,36,$240.69 B,China,$90.06,4.79%,-26.18%,"['E-Commerce', 'Tech', 'Internet', 'Retail']"
+5c23590bf0ed4f638e694bac3ec432c4,Merck,31,$278.99 B,USA,$110.04,0.22%,48.92%,"['Pharmaceuticals', 'Dow jones', 'Biotech']"
+a3800a0eb5234939b4d9952715a2fd4e,Coca-cola,32,$278.28 B,USA,$64.35,0.88%,21.25%,"['Beverages', 'Dow jones']"
+9c59e22de2e94722ac0cf47bf78c3526,Roche,33,$270.73 B,Switzerland,$329.15,-0.56%,-16.63%,"['Pharmaceuticals', 'Biotech']"
+ba491303dd7f41ec995a6ae4012dadb4,Novo Nordisk,30,$285.74 B,Denmark,$126.90,0.61%,19.00%,"['Pharmaceuticals', 'Biotech']"
+bb6653c1a8a34e5986c334d9e08053ad,Abbvie,28,$289.42 B,USA,$163.66,1.26%,40.04%,"['Biotech', 'Pharmaceuticals']"
+57e8c2311cac4ae8a8dcf704263fadda,Pfizer,29,$285.77 B,USA,$50.91,-0.33%,-4.02%,"['Pharmaceuticals', 'Biotech']"
+1ab0ccf2fae54fe386ff71baa18ae409,Kweichow Moutai,26,$292.41 B,China,$232.78,0.19%,-23.36%,"['Alcoholic beverages', 'Beverages']"
+bd288e9353194055bf8dabe7f6924056,Bank Of America,27,$289.44 B,USA,$36.08,-1.29%,-19.63%,"['Banks', 'Financial services']"
+1544f5604f3d49cba7489b7704ce1017,Nestlé,23,$331.82 B,Switzerland,$120.66,-0.63%,-5.70%,['Food']
+7a90f062c1ce4cd78156c0433b431e81,Meta Platforms (facebook),24,$327.43 B,USA,$123.49,2.53%,-60.21%,"['Tech', 'Internet']"
+5d46c92b7e2f4f8886d0814f6c10f4df,Samsung,25,$312.57 B,South Korea,$46.54,-3.51%,-27.73%,"['Tech', 'Electronics', 'Tech Hardware', 'Manufacturing', 'Semiconductors']"
+4bd4d2e0621e4f1a9832e04d75491ee7,Home Depot,22,$334.28 B,USA,$327.99,0.28%,-19.56%,"['Retail', 'Dow jones']"
+b13f2a823d1b43f3a10de1ea4c864839,Chevron,20,$350.04 B,USA,$181.03,-0.80%,57.23%,"['Oil&Gas', 'Dow jones', 'Energy']"
+4969e3d2089941c2b44e8915b1ed7b7d,Mastercard,21,$346.18 B,USA,$360.06,-0.21%,12.45%,['Financial services']
+cf1bf878b7a7454fae7e101193d06696,Procter & Gamble,18,$356.90 B,USA,$150.61,0.91%,2.27%,"['Dow jones', 'Consumer goods']"
+94b30bd26af74dbd9c6885b6da402c19,Eli Lilly,19,$356.08 B,USA,$374.76,1.20%,51.19%,"['Pharmaceuticals', 'Biotech']"
+906b1809560343959bb8ca916e30b7e3,Tencent,16,$378.34 B,China,$39.29,3.69%,-34.20%,"['Tech', 'Internet', 'Video games', 'Esports']"
+489251b60edd4d0d8f7e1c95daeeb053,Lvmh,17,$376.99 B,France,$753.26,-0.79%,-3.08%,"['Luxury goods', 'CAC 40', 'Clothing']"
+6b3b46206aff45e59afa5aa6a8736901,Walmart,14,$415.87 B,USA,$153.22,-0.10%,13.10%,"['Retail', 'Dow jones', 'Supermarket Chains']"
+e417ad817dc045779de5fceeea62cfc7,Jpmorgan Chase,15,$396.45 B,USA,$135.16,-0.79%,-16.16%,"['Banks', 'Financial services', 'Dow jones']"
+34a10310502d4d2c94f08620a8df4ce9,Nvidia,13,$420.54 B,USA,$168.76,-1.51%,-47.47%,"['Tech', 'Semiconductors', 'Electronics', 'Tech Hardware', 'Autonomous driving']"
+41d4c285ca7047898f8ed99b61142e28,Tsmc,12,$422.66 B,Taiwan,$81.50,-1.43%,-33.03%,"['Semiconductors', 'Tech', 'Manufacturing', 'Tech Hardware']"
+d02f428cc5634437966c808414d77a5f,Exxon Mobil,11,$452.43 B,USA,$109.86,-0.85%,79.28%,"['Oil&Gas', 'Energy']"
+395752907c7a42dfa827db8f54465999,Visa,10,$460.99 B,USA,$217.66,0.30%,9.77%,"['Financial services', 'Dow jones']"
+08700c77c31744d1aeb8831ea4f42d0b,Johnson & Johnson,9,$467.67 B,USA,$178.88,0.08%,13.87%,"['Pharmaceuticals', 'Dow jones', 'Biotech']"
+499d7793accb4ee48e9f1dbb6bdb0da9,Tesla,7,$606.20 B,USA,$194.86,0.08%,-46.10%,"['Automakers', 'Tech', 'Electric Vehicles', 'Bitcoin', 'Manufacturing', 'EV charging', 'Autonomous driving']"
+9deb798ece1f47878bbc6afaa6dfbcfe,Unitedhealth,8,$500.96 B,USA,$536.16,0.17%,20.21%,"['Healthcare', 'Insurance', 'Dow jones']"
+f7d05b5a4d474c7c981bcf6cc6c86f58,Berkshire Hathaway,6,$696.53 B,USA,$316.15,0.10%,13.28%,['Investment']
+8a0478684cbc4862b4d2a4cdb80ae7c8,Amazon,5,$960.28 B,USA,$94.13,-1.43%,-45.23%,"['E-Commerce', 'Internet', 'Tech', 'Retail']"
+99fce0cdd3124131896650fe55cfac78,Microsoft,3,$1.901 T,USA,$255.02,0.13%,-22.60%,"['Software', 'Tech', 'Dow jones', 'Video games']"
+6a6e230e2c12460a96476b4a74681df1,Alphabet (google),4,$1.303 T,USA,$100.83,-0.44%,-29.87%,"['Internet', 'Tech', 'Software', 'Autonomous driving']"
+6d16f018aa574822b31aa9905253d3b9,Saudi Aramco,2,$1.938 T,Saudi Arabia,$8.81,-1.19%,-5.57%,"['Energy', 'Oil&Gas']"
+08725aa994694f2a9e8db0a4fa287ed9,Toronto Dominion Bank,100,$125.25 B,Canada,$68.59,0.32%,-8.94%,"['Banks', 'Financial services']"
+828c46bc0ef14bddbf0d6e6b9bb21ee5,Hdfc Bank,98,$126.75 B,India,$68.20,-1.94%,1.55%,"['Banks', 'Financial services']"
+2f317a579f884fb8aeff4135f77df9ed,Elevance Health,99,$125.66 B,USA,$523.60,-0.07%,30.99%,"['Healthcare', 'Insurance']"
+1b971bf5e9c743ab8b920e100eb1fad8,Goldman Sachs,97,$128.87 B,USA,$380.58,-0.84%,-1.80%,"['Banks', 'Dow jones', 'Financial services']"
+c4fe2678ef78469b81058901844d5db0,Petrochina,96,$129.63 B,China,$0.74,0.19%,-3.90%,"['Oil&Gas', 'Energy']"
+53ab8584323b4f4991eba7f5ab1eda7c,Lockheed Martin,94,$130.04 B,USA,$496.23,2.59%,50.13%,"['Aerospace', 'Defense contractors', 'Aircraft manufacturers', 'Manufacturing']"
+24d24c91007f4f22a49aa37faa86e637,Lowe's Companies,95,$129.91 B,USA,$214.84,-0.30%,-14.20%,['Retail']
+504d94ab87904af0b166f4349602f7e1,Prosus,92,$131.50 B,Netherlands,$65.60,0.57%,-19.84%,['Investment']
+c67985966ee84f548583cbcf0abccdce,Unilever,93,$131.15 B,UK,$51.50,0.68%,0.12%,"['Food', 'Consumer goods']"
+59c505e4dfb2443fa5119a9d6601e943,Union Pacific Corporation,91,$132.01 B,USA,$214.73,-0.56%,-10.56%,"['Railways', 'Transportation', 'Infrastructure']"
+e4ae220c64874755b725da37ed8a9d18,Ibm,90,$133.25 B,USA,$148.67,-0.33%,27.18%,"['Tech', 'Software', 'Dow jones']"
+e079a8a85061498185bd499aea712e6b,Meituan,88,$133.48 B,China,$21.57,3.07%,-32.17%,"['Internet', 'Tech', 'E-Commerce']"
+3d07f0b027e149cab13b207ee534f730,Sap,89,$133.26 B,Germany,$112.03,0.02%,-13.94%,"['Tech', 'Software', 'DAX']"
+4587a4d131f64cbfbee6175595316dba,Cvs Health,86,$134.78 B,USA,$102.58,0.91%,13.99%,"['Healthcare', 'Pharmaceuticals', 'Drugstore', 'Retail']"
+a22ee004731f4c4eb110a7df59c5835d,Deere & Company,87,$134.49 B,USA,$445.61,0.86%,27.09%,"['Machinery manufacturing', 'Manufacturing']"
+e27d34b0c4a64e08add3e10f95bacc90,Dior,84,$135.84 B,France,$751.90,-0.14%,-1.01%,"['Luxury goods', 'Clothing']"
+2774f4861a5d49bc88cf208f69b31fe8,At&t,85,$135.55 B,USA,$19.02,-0.89%,-17.48%,['Telecommunication']
+3ac276c0a1064ccc9ae535dddaf2035f,Royal Bank Of Canada,82,$139.63 B,Canada,$99.64,-0.62%,-0.46%,"['Banks', 'Financial services']"
+fcb4f0e34fb9409cb6dcd83c4820a1e0,Catl,83,$136.36 B,China,$55.83,-0.85%,-48.33%,"['Batteries', 'Electricity']"
+31b095eee3754b8e9bd771552949f377,Qualcomm,80,$140.86 B,USA,$125.66,-0.91%,-29.02%,"['Tech', 'Semiconductors', 'Tech Hardware']"
+af9ea55a755241a28c210599e8fb8413,Netflix,79,$142.58 B,USA,$320.41,1.09%,-48.03%,"['Entertainment', 'Internet', 'Tech']"
+e8ba1937191b411c96e7dc92c0f590bb,Agricultural Bank Of China,81,$140.40 B,China,$0.41,0.00%,-10.87%,"['Banks', 'Financial services']"
+313770afeba944efb856b1a22cb98b80,Salesforce,78,$144.55 B,USA,$144.56,-1.66%,-44.66%,"['Software', 'Dow jones', 'Tech']"
+ac5cff80dc9a48289623edfda89c65a1,Honeywell,77,$147.29 B,USA,$219.08,0.78%,7.39%,"['Dow jones', 'Aerospace', 'Defense contractors']"
+9ff9e037b94a4839ba386254dcb53f3d,Raytheon Technologies,76,$148.49 B,USA,$101.01,1.52%,23.70%,"['Aerospace', 'Defense contractors']"
+63107809b6f748a8b7ff8b60a6fd5c85,China Mobile,75,$149.18 B,China,$6.59,-0.29%,10.02%,['Telecommunication']
+e0ab4205f2284f4b80d2ba414b2eded0,Totalenergies,74,$151.61 B,France,$60.61,-0.09%,26.01%,"['Oil&Gas', 'Energy', 'CAC 40']"
+d64d7d7889fb43b8a71ade913aeceefa,Conocophillips,73,$152.24 B,USA,$122.18,-0.72%,71.46%,"['Oil&Gas', 'Energy']"
+09036f0a1eeb4c41a3a12ba11853ec4d,China Construction Bank,71,$153.33 B,China,$0.78,-0.55%,-14.29%,"['Banks', 'Financial services']"
+2a649142b8e14ba5aef034bbddfc9dd6,Amgen,72,$152.34 B,USA,$285.51,-0.15%,41.92%,"['Pharmaceuticals', 'Dow jones', 'Biotech']"
+a832a2b92d184478a716eca15d25a5ee,Tata Consultancy Services,69,$154.57 B,India,$42.24,-1.05%,-13.01%,"['IT services', 'Professional services']"
+dd2cc766d4e4436aba88c3ff4ca124db,Charles Schwab,70,$153.93 B,USA,$82.46,0.89%,2.92%,"['Financial services', 'Banks']"
+d18a6febba9d40c789c00762c050abad,Adobe,66,$158.77 B,USA,$341.53,-0.75%,-49.17%,"['Software', 'Tech']"
+2957d6eaadb246419b45b0c7ca9f5ca0,Comcast,68,$155.03 B,USA,$35.86,-1.16%,-30.37%,"['Telecommunication', 'Media/Press', 'Entertainment']"
+9536df3806fa49b3809b4a571813be93,Morgan Stanley,67,$155.65 B,USA,$92.10,-0.97%,-6.84%,"['Banks', 'Financial services', 'Investment']"
+65cb00a2721147de936db92822dc3245,Bhp Group,64,$160.50 B,Australia,$63.43,0.65%,10.01%,['Mining']
+ff708fb9839e44c2873d2be0a3327737,Verizon,65,$160.34 B,USA,$38.18,-0.39%,-24.74%,"['Telecommunication', 'Dow jones']"
+0dcc277aaf3a46d0be0cfb02e69d67d4,Texas Instruments,63,$161.23 B,USA,$177.66,0.09%,-8.22%,"['Semiconductors', 'Tech', 'Tech Hardware']"
+f54ac39c376e475c82fa43208c387252,Philip Morris,62,$161.68 B,USA,$104.30,1.80%,18.74%,['Tobacco']
+13e7cf6d8fdd467cb07aa5f138147c68,Linde,60,$166.77 B,UK,$337.35,0.03%,4.12%,"['DAX', 'Chemicals']"
+d5929d29cceb459fa6961600e55cbf6a,United Parcel Service,61,$163.80 B,USA,$189.39,-0.42%,-5.26%,"['Courier', 'Transportation']"
+c71afd79557a4669acb7b81eaf1d3eea,Hermès,59,$167.38 B,France,"$1,601",-0.78%,-12.52%,"['Luxury goods', 'CAC 40']"
+7c589e42f8d04b9eb4490e7644793ab7,Nextera Energy,58,$169.30 B,USA,$85.20,0.44%,-3.86%,"['Energy', 'Electricity', 'Utility companies', 'Renewable energy']"
+4d7b67d3abb14b289cf6af24ff60949e,Volkswagen,153,$87.16 B,Germany,$146.40,-0.26%,-22.35%,"['Automakers', 'DAX', 'Manufacturing']"
+b0629adb9d1f4148a311ca7c2241bcb9,Cm Bank,101,$123.17 B,China,$4.94,-1.41%,-39.24%,"['Banks', 'Financial services']"
+d14c51acb1cd4ba8a4218ded01b3d36f,Glencore,151,$88.10 B,Switzerland,$6.84,0.37%,45.53%,"['Mining', 'Coal Mining', 'Energy']"
+04dacb35a2534709ab10b292fb1a7748,Canadian National Railway,152,$87.19 B,Canada,$127.83,-0.49%,-0.90%,"['Railways', 'Transportation']"
+4c1dd22b8e8e41739c5f0c9cf0a561e5,Wuliangye Yibin,150,$90.17 B,China,$23.23,-0.93%,-33.59%,"['Beverages', 'Alcoholic beverages']"
+52ae367230d243f49eaa38f9a0607db7,Chubb,149,$90.96 B,Switzerland,$219.16,0.38%,20.18%,['Insurance']
+8e5a43d99bdc4ec89c9853b47dc7b17d,Applied Materials,147,$91.80 B,USA,$106.71,-0.28%,-27.16%,"['Semiconductors', 'Tech', 'Tech Hardware']"
+71a078084a87433687799c1f96b82b88,Citigroup,148,$91.49 B,USA,$47.24,-1.13%,-25.97%,"['Banks', 'Financial services']"
+cb24f58da8cb4488918a059260c8a03e,Stryker Corporation,146,$92.00 B,USA,$243.11,0.97%,-1.73%,['Medical devices']
+317f5da30d214e5faefa9ae6148a83eb,Mondelez,143,$93.28 B,USA,$68.31,0.32%,14.88%,['Food']
+8f6aa8575c424896ad38b5114fc9e8c9,Tjx Companies,144,$93.10 B,USA,$80.19,0.56%,14.15%,"['Retail', 'Clothing']"
+f6399e4db6a648eebc33074ab17d1e42,Airbus,145,$92.04 B,Netherlands,$116.87,0.76%,2.12%,"['Aircraft manufacturers', 'Aerospace', 'CAC 40', 'Manufacturing', 'DAX']"
+7be03e18f11f4174a8530bf791621ad3,General Electric,141,$94.93 B,USA,$86.88,1.90%,-8.77%,['Conglomerate']
+da9ead96b2594fb4a4df6bbe523318aa,Ntt (nippon Telegraph & Telephone),142,$94.57 B,Japan,$27.25,-2.15%,0.37%,['Telecommunication']
+c6d5425af4c244ac908e95c0b741bd54,British American Tobacco,140,$94.99 B,UK,$42.31,0.98%,24.44%,['Tobacco']
+4fa5ccf3f83d4717a13d26a64c302fb9,Byd,139,$95.45 B,China,$37.34,-1.72%,-23.01%,"['Automakers', 'Manufacturing']"
+1a81811a88ca49788e2ee65f09c19dc9,Csl,137,$98.93 B,Australia,$205.17,1.08%,-4.66%,"['Biotech', 'Pharmaceuticals']"
+a54a67a801134aa78d74bc49ff62b1a0,Intuitive Surgical,138,$96.20 B,USA,$272.25,-0.82%,-16.82%,['Medical devices']
+0eb2b5b33b894426a1c7cdbe50a93cc8,American Tower,135,$102.13 B,USA,$219.37,-0.87%,-17.60%,"['Telecommunication', 'Real estate', 'REITs', 'Infrastructure']"
+393c68134e6542a6ba444f509ec633f5,Cigna,136,$100.03 B,USA,$327.20,1.16%,65.43%,['Insurance']
+ac0967f697684ae0952db5e2a8a09bbf,Porsche,134,$102.65 B,Germany,$112.68,-0.60%,,"['Automakers', 'Manufacturing']"
+396122961afd49c697e0d6a8c28b62ce,Keyence,133,$102.68 B,Japan,$423.40,-2.64%,-32.65%,"['Tech Hardware', 'Tech', 'Scientific & Technical Instruments']"
+b34a69e2e89547858f02536c726906eb,Sony,131,$103.02 B,Japan,$82.79,-1.37%,-31.10%,"['Video games', 'Electronics', 'Tech', 'Entertainment', 'Tech Hardware']"
+bcc62802d1ed4f23a2cbd24a04001523,Deutsche Telekom,132,$102.87 B,Germany,$20.69,-0.11%,17.29%,"['Telecommunication', 'DAX']"
+bc368c69cf19435aaa6f9320e4d6cbdb,Medtronic,128,$105.90 B,Ireland,$79.62,0.47%,-25.78%,['Medical devices']
+c8d0699b9b86404cbc10780a4b5a38d3,Lg Energy Solution,130,$105.29 B,South Korea,$449.97,-0.17%,,"['Batteries', 'Electricity', 'Energy']"
+54df1e5a42e54ef29586c5708c656663,Jingdong Mall,129,$105.71 B,China,$58.64,5.00%,-30.57%,"['E-Commerce', 'Internet', 'Retail', 'Tech']"
+96df648eee7f494dac58894df0fb180f,Bp,127,$107.07 B,UK,$35.36,-1.01%,30.67%,"['Oil&Gas', 'Energy']"
+5259c47b5c9645dba268e9b1cc9ea8a9,Diageo,124,$108.84 B,UK,$191.39,0.60%,-6.75%,"['Alcoholic beverages', 'Beverages']"
+34f3f82c34b240b9a9d5f95bd041a7db,Blackrock,126,$107.08 B,USA,$712.98,-1.27%,-22.41%,['Investment']
+c8eb18631cd5462a82d2dd1123cd76a5,Prologis,125,$107.94 B,USA,$116.94,-0.14%,-24.27%,"['Real estate', 'Investment', 'REITs']"
+0e96d164a736423682465f9ef7e70b44,Boeing,123,$108.98 B,USA,$182.87,4.03%,-9.64%,"['Aircraft manufacturers', 'Aerospace', 'Dow jones', 'Manufacturing']"
+7240a88568524bacb0edd608995d2811,Pinduoduo,122,$109.16 B,China,$86.34,3.10%,45.65%,"['E-Commerce', 'Internet', 'Tech']"
+e019787118004edd8ee84727fe072a4d,Gilead Sciences,121,$111.66 B,USA,$89.03,1.29%,27.79%,"['Pharmaceuticals', 'Biotech']"
+80320470a1f9479bbc09e4b56ca4ab0d,Automatic Data Processing,120,$111.96 B,USA,$269.90,0.73%,16.12%,"['Software', 'IT services', 'Professional services', 'Tech']"
+968b50ec7f924eaf93e29e3c784a5c71,Rio Tinto,119,$113.15 B,UK,$69.82,0.93%,8.87%,['Mining']
+5848eb217d8941ac9cfcb53b3bece32f,Siemens,118,$113.81 B,Germany,$141.85,0.78%,-15.21%,"['Engineering', 'DAX']"
+744b48771fd041b7a117c4de1cbfad7f,Sanofi,117,$114.09 B,France,$45.01,-1.87%,-5.62%,"['CAC 40', 'Pharmaceuticals', 'Biotech']"
+c0e7474b62af4869add0a3657f9f9bb9,Ping An Insurance,115,$115.00 B,China,$6.36,-0.47%,-17.19%,['Insurance']
+de9ed8d9c8f84fb6ba582681b01785fe,Intuit,116,$114.59 B,USA,$407.92,-1.96%,-39.31%,"['Software', 'Tech']"
+5f431c4aeeae4a8ea6b7bd0f6e26cea3,China Life Insurance,113,$115.97 B,China,$5.03,-0.79%,9.83%,['Insurance']
+ae14e1f54fa54337bf2b98fde7ab24f9,Equinor,114,$115.89 B,Norway,$36.87,-3.25%,44.82%,"['Energy', 'Oil&Gas', 'Electricity']"
+80748fdcb96f413f96b81c9c5b5cf198,American Express,112,$117.12 B,USA,$156.75,-0.48%,-0.01%,"['Dow jones', 'Financial services']"
+335338e7dbac4adfb12c7f15e202da6c,S&p Global,111,$117.22 B,USA,$359.80,-0.77%,-21.95%,['Financial services']
+ab8d79da1dbd46f18f80dc2147e686b0,Anheuser-busch Inbev,110,$120.11 B,Belgium,$60.35,1.04%,7.00%,"['Alcoholic beverages', 'Beverages']"
+f6a8d75d791c4105a55c6d09eb65db5d,Aia,109,$120.50 B,Hong Kong,$10.23,-0.87%,-3.76%,['Insurance']
+70b417fe356449028df9c3cbf7111246,Starbucks,108,$120.57 B,USA,$105.05,1.63%,-5.72%,['Beverages']
+091410679e7e4dbda024b0c70a4e08d4,Intel,106,$121.37 B,USA,$29.41,-1.41%,-40.59%,"['Semiconductors', 'Tech', 'Dow jones', 'Tech Hardware', 'Manufacturing']"
+07729f35bed748d9aeaee5a46072f2ec,Amd,107,$120.89 B,USA,$74.98,-3.23%,-50.24%,"['Tech', 'Semiconductors', 'Electronics', 'Tech Hardware']"
+56dfd38c7c7c4a989f10f61970ed3441,Hsbc,105,$122.12 B,UK,$30.58,0.10%,6.70%,['Banks']
+ea5c7ae7e09c4219bbe0cb4134495604,Caterpillar,104,$122.88 B,USA,$236.13,0.19%,19.99%,"['Dow jones', 'Machinery manufacturing', 'Manufacturing']"
+e21d295f393244b1a52e73b338f940e0,Bank Of China,102,$123.07 B,China,$0.44,0.00%,-8.33%,"['Banks', 'Financial services']"
+ec69fb8d5dc047b59eeec8a5906e2aac,Commonwealth Bank,103,$122.92 B,Australia,$72.69,-1.36%,6.41%,"['Banks', 'Financial services']"
+cafbf5dd00d44113b542e5afd52dc8df,Target,180,$75.56 B,USA,$164.16,-0.53%,-33.13%,"['Retail', 'Supermarket Chains']"
+eb2af0a085514a32858378d80edc39d4,Duke Energy,179,$76.63 B,USA,$99.52,-0.79%,1.92%,"['Energy', 'Electricity', 'Oil&Gas', 'Utility companies']"
+72649857ab1e40dda58117412ec0ff15,Canadian Pacific Railway,178,$77.08 B,Canada,$82.35,-0.19%,17.96%,"['Railways', 'Transportation', 'Infrastructure']"
+eae0d5c7520e4b988d4010f0b01f6564,Progressive,177,$77.51 B,USA,$132.51,0.95%,38.03%,['Insurance']
+66186105c0934f8491a84ff045543ef9,Vale,176,$77.98 B,Brazil,$16.72,0.48%,28.71%,['Mining']
+235027e433914125834609e35a073138,Air Liquide,175,$78.78 B,France,$147.96,0.70%,-10.41%,"['CAC 40', 'Chemicals']"
+b3569700dff340a5914b00fecfa9e893,China Shenhua Energy,174,$79.02 B,China,$4.19,-1.57%,28.92%,"['Mining', 'Coal Mining', 'Energy']"
+ba04955e32c1486c8720ea6eb4eaebac,Booking Holdings (booking.com),173,$80.89 B,USA,"$2,085",1.22%,-3.98%,"['Internet', 'Travel', 'Online Travel', 'Tech']"
+91c4f5a0002e4b5f9f18f5e177ca1d7e,Icici Bank,172,$80.89 B,India,$23.20,0.00%,24.13%,"['Banks', 'Financial services']"
+4c8f00a11e4d41309629dd04debf33ab,Merck Kgaa,171,$81.20 B,Germany,$186.76,0.45%,-22.36%,"['Pharmaceuticals', 'Chemicals', 'DAX']"
+b0ba4cdbe6474bfa8d58571d37837c14,Vertex Pharmaceuticals,169,$82.49 B,USA,$321.37,0.19%,57.19%,"['Pharmaceuticals', 'Biotech']"
+82bb1de1ead243078092fc47d696e1a2,Eog Resources,170,$81.62 B,USA,$138.97,-1.12%,60.55%,"['Energy', 'Oil&Gas']"
+4eac89cad7ca4521b70591eb7fccc24b,Inditex,167,$82.91 B,Spain,$13.32,0.83%,-17.37%,"['Clothing', 'Retail']"
+f5a176d42b044a9abcba679730531a8c,Enbridge,168,$82.78 B,Canada,$40.61,-0.85%,8.61%,"['Oil&Gas', 'Energy']"
+527b940c848e47ed89a3028ed401343c,Servicenow,166,$83.39 B,USA,$412.87,-2.99%,-33.77%,"['Software', 'Internet', 'Tech']"
+822737665c1a419c97142a5cd7a3a6ee,Regeneron Pharmaceuticals,165,$83.46 B,USA,$766.39,0.68%,20.88%,"['Biotech', 'Pharmaceuticals']"
+7a0256e824bd4aa793c30384aa5f9aae,Northrop Grumman,164,$83.97 B,USA,$545.60,2.89%,54.75%,"['Aerospace', 'Defense contractors']"
+e0e885d924ac495da94a5e51803af6bc,Schneider Electric,163,$84.02 B,France,$147.94,-0.45%,-18.89%,"['CAC 40', 'Tech', 'Professional services', 'Software']"
+7c9574fc24324ab1820c6b0e02738108,Essilorluxottica,162,$84.69 B,France,$190.13,1.43%,-5.39%,"['CAC 40', 'Glasses and contact lenses', 'Luxury goods']"
+b4f6472380ac4305843b083e1790f5b5,Paypal,161,$85.11 B,USA,$74.66,-4.93%,-60.11%,"['Financial services', 'Tech', 'Internet', 'Bitcoin']"
+f4e0a1206d624f36b90f6d9abb760b5b,Al Rajhi Bank,160,$85.28 B,Saudi Arabia,$21.32,-0.50%,-40.11%,"['Banks', 'Financial services']"
+f2b86ac374eb4650b62c4ea8b020f68a,Estee Lauder,159,$85.28 B,USA,$239.01,3.04%,-28.58%,"['Cosmetics and Beauty', 'Consumer goods']"
+d7ad1c7adada431bb1459bf1dda6dc9e,Altria Group,158,$85.36 B,USA,$47.63,1.32%,10.23%,['Tobacco']
+5392127ae2f14c0888615239b1a7fd95,Analog Devices,157,$85.88 B,USA,$168.63,-1.22%,-6.64%,"['Semiconductors', 'Tech', 'Manufacturing']"
+d5b3bcb6b05f425e812203d759475342,Infosys,156,$86.00 B,India,$20.19,-1.56%,-13.87%,"['Professional services', 'IT services']"
+7597f6b734804ed7aa05317849ba53d8,Allianz,155,$86.06 B,Germany,$213.41,-0.54%,-4.44%,"['Insurance', 'DAX']"
+0ddeb2eb8ba8439e84ec9c4318c2e3c8,Marsh & Mclennan Companies,154,$86.26 B,USA,$173.91,0.51%,3.23%,"['Insurance', 'Professional services']"
+27d0dacd236e49ca97b7fe396cfa60b2,Moderna,200,$70.05 B,USA,$182.35,0.48%,-39.52%,"['Pharmaceuticals', 'mRNA therapeutics', 'Biotech']"
+2dbf1de936ab4fe3ae9f89e5ac6133f7,Illinois Tool Works,199,$70.12 B,USA,$228.29,0.38%,-2.90%,"['Tool manufacturers', 'Manufacturing']"
+d4f5bba633f2460abeb7bb547f8a5216,3m,198,$70.19 B,USA,$126.99,0.79%,-25.41%,"['Dow jones', 'Gloves & PPE']"
+41a0f7b2bc364aa5a01633354691702f,General Dynamics,197,$70.21 B,USA,$255.74,1.38%,31.50%,['Defense contractors']
+3e3d6944b9424f139d32cf6f912c9882,Air Products And Chemicals,196,$70.65 B,USA,$318.44,2.05%,10.79%,['Chemicals']
+47d2fc40d6c94c6fb24bc73101ef398d,Bank Central Asia,195,$71.13 B,Indonesia,$0.58,-0.73%,11.54%,"['Banks', 'Financial services']"
+3ba746b333ec4d21a89e792ec8b8e730,Brookfield Asset Management,193,$71.48 B,Canada,$45.13,-3.42%,-20.98%,"['Investment', 'Financial services']"
+ca88c7fc20f0463d9e707369244e137d,Zurich Insurance Group,194,$71.25 B,Switzerland,$480.52,-0.82%,15.17%,['Insurance']
+bdb02402fee94ecba70f245ef25b7219,Becton Dickinson,192,$71.51 B,USA,$252.38,0.62%,4.32%,['Medical devices']
+f34155da8b094b649f4e64560507ac6b,Glaxosmithkline,191,$71.89 B,UK,$35.35,0.91%,-14.76%,"['Biotech', 'Pharmaceuticals']"
+d08b0ede810848f8abb56b5106db99c7,Kering,190,$72.18 B,France,$589.41,-1.30%,-24.92%,"['CAC 40', 'Luxury goods']"
+62b40abadb4c4a8fbd736257ea103f7d,Mercedes-benz,189,$72.20 B,Germany,$67.49,-0.11%,-16.75%,"['Automakers', 'Manufacturing', 'DAX', 'Autonomous driving']"
+501587a07d6e4cf7b68b51642620d26e,Sinopec,188,$73.00 B,China,$0.64,-0.22%,-3.03%,"['Oil&Gas', 'Energy']"
+9821e30cdd9b408e98a98a5e68d8e4f9,Zoetis,185,$73.36 B,USA,$157.42,0.50%,-29.47%,"['Pharmaceuticals', 'Biotech']"
+ec9fb60e23234da9bf346735ff827ff0,Southern Company,186,$73.31 B,USA,$67.34,-0.56%,8.60%,"['Energy', 'Oil&Gas', 'Electricity', 'Utility companies']"
+a16ea418d57842bb8873e39d516e7932,Gazprom,187,$73.26 B,Russia,$3.10,0.04%,-34.32%,"['Oil&Gas', 'Energy']"
+a0c15e95d21d48d3b6229a10faa05530,Petrobras,184,$74.35 B,Brazil,$11.40,1.06%,8.88%,"['Oil&Gas', 'Energy']"
+dbf78323d9aa476dba551ddf2397ca3f,Compagnie Financière Richemont,183,$74.37 B,Switzerland,$131.07,-0.20%,-11.28%,['Luxury goods']
+9c4b758c81074f3089be859afc15a7dd,Schlumberger,182,$74.85 B,USA,$52.79,1.99%,80.05%,"['Oil&Gas', 'Energy']"
+cf067703a4e745c9b50996b6228b4020,Hindustan Unilever,181,$75.47 B,India,$32.12,-1.79%,1.10%,"['Consumer goods', 'Food']"
+28fa097b653a4ba4b818de0bc8bc9c8a,Iberdrola,201,$69.84 B,Spain,$11.43,-0.60%,4.86%,"['Electricity', 'Energy']"
+2809e08ad7e049aeaf7e4fcd5ce21e0a,Waste Management,202,$69.70 B,USA,$169.81,1.19%,3.71%,['Waste & Recycling']
+a451a09bf1a940538daa4112c79c49ef,Freeport-mcmoran,261,$57.48 B,USA,$40.22,1.64%,8.41%,['Mining']
+4f1797b41fc54247886538905ed5bc92,Uber,262,$57.33 B,USA,$28.75,1.45%,-24.58%,"['Ridesharing', 'Internet', 'Tech', 'Transportation']"
+37bc189fdd5c44649d5c2bbac61d1e28,China Tourism Group Duty Free,260,$58.31 B,China,$28.41,-2.25%,-10.38%,['Retail']
+4dc8ca13cdc14649bcac8eaf075c2159,Investor Ab,258,$58.36 B,Sweden,$19.15,0.08%,-19.44%,"['Investment', 'Conglomerate']"
+c16156aa679a49e9b6c772565ac641ec,Vinci,259,$58.33 B,France,$103.46,-0.01%,5.37%,"['CAC 40', 'Construction']"
+01f5c28c7e9d4b2c8a5319b4a8ae24fa,Kkr & Co.,257,$58.64 B,USA,$52.25,-0.57%,-30.78%,['Investment']
+bac24e4dc1f742e889a24cc6c724a48e,Ubs,256,$58.79 B,Switzerland,$18.46,-0.16%,4.12%,"['Banks', 'Financial services']"
+0109ec96497c41e381977821cb96bfb4,London Stock Exchange,254,$59.00 B,UK,$106.36,4.66%,18.64%,"['Financial services', 'Stock exchanges', 'Stock/Crypto exchanges']"
+0b15dafed17d4aca9e5d6858a3499de7,Norfolk Southern,255,$58.82 B,USA,$254.07,-0.89%,-8.88%,"['Railways', 'Infrastructure']"
+70bfb8293be8480ba5cec4130cabf7c8,Bmw,253,$59.09 B,Germany,$89.79,0.14%,-10.30%,"['Automakers', 'DAX', 'Manufacturing']"
+5d1eb483692244a6a4d7db5745b16176,Activision Blizzard,252,$59.29 B,USA,$75.76,0.76%,32.24%,"['Video games', 'Esports', 'Entertainment', 'Tech']"
+a0ff0fe5b8544cfc9632cfc35538215a,Abb,249,$59.69 B,Switzerland,$31.63,0.22%,-10.40%,['Engineering']
+716c5e21de63477089c4dbcfe1740c1b,Housing Development Finance Corporation,250,$59.64 B,India,$32.74,-1.32%,-12.53%,"['Financial services', 'Banks']"
+2aa69de3c5ce43cdb4f32d33d0266629,Micron Technology,251,$59.44 B,USA,$54.68,-1.46%,-34.03%,"['Tech', 'Tech Hardware', 'Semiconductors']"
+17531cea5f434f44835ba154ff323214,Truist Financial,248,$59.78 B,USA,$45.06,-2.51%,-25.37%,"['Banks', 'Financial services']"
+b9d7ec5bceea4676b032e0c36ba29f44,The Saudi National Bank,247,$60.01 B,Saudi Arabia,$13.52,-1.17%,-18.94%,"['Banks', 'Financial services']"
+53aa1301800d4f9d8a009ac00ec87c8f,Atlas Copco,245,$60.53 B,Sweden,$11.53,0.66%,-11.72%,['Manufacturing']
+09e10c497fa743da8a129101ad160a89,Metlife,246,$60.34 B,USA,$76.91,0.34%,29.63%,['Insurance']
+721017e003ab42fe8d63d796ab52bd73,Intercontinental Exchange,243,$61.02 B,USA,$109.25,-0.26%,-16.74%,"['Stock exchanges', 'Financial services', 'Stock/Crypto exchanges']"
+9f1274fa6cae4cd5a248c95bc376d6ba,Crown Castle,244,$60.70 B,USA,$140.17,-1.09%,-24.49%,"['Real estate', 'Investment', 'REITs', 'Telecommunication', 'Infrastructure']"
+fd9870c6ba8d4b7da5b656db4ba3785e,Charter Communications,242,$61.13 B,USA,$392.69,0.91%,-41.42%,['Telecommunication']
+87b56dc36deb4f0fbe817aeb5457a123,Siemens Healthineers,241,$61.19 B,Germany,$54.32,1.78%,-25.04%,"['Healthcare', 'DAX']"
+2ad1828452184b068eb77df6521839ad,Blackstone Group,239,$61.48 B,USA,$85.16,0.14%,-39.71%,['Investment']
