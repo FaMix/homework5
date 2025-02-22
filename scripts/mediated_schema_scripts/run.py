@@ -20,7 +20,7 @@ class create_excels:
 
     def __init__(self, dataset_folder):
         self.dataset_folder =  dataset_folder
-        self.directory = r"C:\Users\Dell XPS 9510\Desktop\java\t2\Homework5\homework5\mediates_schema_excels" 
+        self.directory = r"C:\Users\Dell XPS 9510\Desktop\java\t2\Homework5\homework5\Mediated Schema Excels" 
         self.csv_file = os.path.join(self.directory, "c_n_s.csv")
         
 
