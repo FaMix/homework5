@@ -20,7 +20,11 @@ class create_excels:
 
     def __init__(self, dataset_folder):
         self.dataset_folder =  dataset_folder
+<<<<<<< HEAD
         self.directory = r"../../mediated_schema_excels" 
+=======
+        self.directory = r"C:\Users\Dell XPS 9510\Desktop\java\t2\Homework5\homework5\Mediated Schema Excels" 
+>>>>>>> 9c7544d1eb067e38a062ce2466e3de96b7fec012
         self.csv_file = os.path.join(self.directory, "c_n_s.csv")
         
 
@@ -242,7 +246,11 @@ class create_excels:
 
 
 if __name__==__name__:
+<<<<<<< HEAD
     run = create_excels(r'../../datasets_excel_purified') #put here the directory were the datasets are
+=======
+    run = create_excels(r'C:\Users\Dell XPS 9510\Desktop\java\t2\Homework5\homework5\datasets_excel_purified') #put here the directory were the datasets are
+>>>>>>> 9c7544d1eb067e38a062ce2466e3de96b7fec012
     run.create_corresponding_excel()
 
 
