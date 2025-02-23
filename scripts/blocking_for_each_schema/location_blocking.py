@@ -49,5 +49,6 @@ def location_blocking():
     
     df.to_csv("../blocking_excels/location_blocking.csv", index=False)
 
+
 if __name__ == "__main__":
     location_blocking()
