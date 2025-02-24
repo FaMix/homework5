@@ -4,9 +4,9 @@ from utils import *
 
 # Mapeos y columnas objetivo para el esquema de Localización
 DEFAULT_LOCATION_MAPPINGS = {
-    'Address': ("Address", "Capital Address", "registered_office_address"),
-    'City': ("City", "headquarters_region_city"),
-    'State': ("State",),
+    'Address': ("Address", "Capit,al Address", "registered_office_address"),
+    'City': ("City",),
+    'State': ("State","headquarters_region_city"),
     'Country': ("Country", "nation", "headquarters_country"),
     'Continent': ("Continent", "headquarters_continent")
 }
