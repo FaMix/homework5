@@ -5,7 +5,7 @@ location_dataset = pd.read_excel('../Mediated Schema Excels/location_schema.xlsx
 
 def location_blocking():
     indexer = recordlinkage.Index()
-    indexer.sortedneighbourhood('Address', window=3)
+    indexer.sortedneighbourhood('Country', window=3)
     candidate_links = indexer.index(location_dataset)
     
     # Eliminar pares duplicados

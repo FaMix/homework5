@@ -1,0 +1,19 @@
+id,left_row_index,right_row_index,left_name_company,right_name_company,label,left_industryname,right_industryname,left_sector,right_sector,left_address,right_address,left_city,right_city,left_state,right_state,left_country,right_country,left_continent,right_continent,left_other,right_other
+82,29991,26905,Zhejiang Daily Digital Culture Group,"Zhejiang Daily Digital Culture Group Co.,Ltd.",1,,,,,,,,,,,,,,,,
+83,38338,24551,Sika Ag,Sika AG,1,,,,,,,,,,,,,,,,
+84,15113,2245,Voltronic Power Technology Corp,Voltronic Power Technology,1,,,,,,,,,,,,,,,,
+85,55844,55755,BAD HABITS LTD,BAD HABITS LONDON LTD,1,,,,,,,,,,,,,,,,
+86,23420,2625,Hawaiian Holdings Inc,Hawaiian Holdings,1,,,,,,,,,,,,,,,,
+87,39586,22621,Axiata Group Berhad,Axiata Group Bhd,1,,,,,,,,,,,,,,,,
+88,58778,23012,Crystal International Group Ltd,Crystal International Group,1,,,,,,,,,,,,,,,,
+89,43659,12188,Mapfre SA,"Mapfre, SA",1,,,,,,,,,,,,,,,,
+90,29501,13478,Okamura Corp,Okamura Corporation,1,,,,,,,,,,,,,,,,
+91,10085,9271,BEAUTY BOX BW LTD,BEAUTY BOX LIMITED,0,,,,,,,,,,,,,,,,
+92,16117,15701,BEAUTY BANKKS LTD,BEAUTY BANKS,1,,,,,,,,,,,,,,,,
+93,29599,20228,Silergy,Silergy Corp,1,,,,,,,,,,,,,,,,
+94,17039,35470,"Oak Street Health, Inc.",Neotia Getwel Healthcare Centre,1,"['Healthcare', 'Hospitals', 'Healthcare Service']",Healthcare,,,,,,,,,,,,,,
+95,43924,34856,Deutsche Post,Post Danmark,1,Industrials,Industrials,Delivery services,Delivery services,,,,,,,,,,,,
+96,681,4051,Qbe Insurance Group,Coles Group,0,,,,,,,Sydney,Melbourne,,,Australia,Australia,Oceania,Oceania,,
+97,9302,8775,Goodman Group,Agl Energy,0,,,,,"The Hayesbery, 1-11 Hayes Road, Rosebery, New South Wales, 2018",,Sydney,Sydney,,,Australia,Australia,Oceania,Oceania,,
+98,37752,51229,Capital One Financial Corp,Capital One Financial Corporation,1,,,,,,,,,,,,,,,www.capitalone.com,https://disfold.com/company/capital-one-financial-corporation/
+99,18566,19847,American Airlines Group Inc.,American Airlines Group Inc,1,,,,,,,,,,,,,,,https://disfold.com/company/american-airlines-group-inc/,americanairlines.gcs-web.com

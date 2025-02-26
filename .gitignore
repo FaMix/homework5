@@ -5,3 +5,5 @@ coma 3.0 ce v3.zip
 coma 3.0 ce v3/
 old/
 scripts/mediated_schema_scripts/run.ipynb
+Deep Matcher/hybrid_model.pth
+blocking_excels/location_blocking.csv
